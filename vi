@@ -1,0 +1,2 @@
+
+void _push(stack_t **stack, int value, unsigned int line_number);
